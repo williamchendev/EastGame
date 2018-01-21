@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d5ad7736ad3266a419107a0212a39d7b
+timeCreated: 1512368668
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - aim_obj: {fileID: 1507519287274498, guid: 71ddf397d3e8147499794e9f5e6b454f, type: 2}
+  - circlet_obj: {fileID: 1568022772249698, guid: c2fba2d946554324485db88b2ba57911,
+      type: 2}
+  - bullet_obj: {fileID: 1911804407636346, guid: e02f7bb4b203804459d7bbf129d62315,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
